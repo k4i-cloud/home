@@ -1,0 +1,37 @@
+h3 {
+  color: white;
+}
+
+nav{
+text-align: right;
+}
+.main-menu {
+list-style-type: none;
+margin: 100 ;
+padding: 0 ;
+}
+.main-menu li {
+display: inline-block;
+width: 120px;
+}
+.main-menu li a {
+text-decoration: none;
+color: white;
+}
+nav ul li a:hover{
+color: #00fa9a;
+}
+
+
+body{
+  font-family: "游ゴシック";
+  background: #142130;
+  text-align: left;
+}
+img {
+   width: 100%;  /* 横幅に合わせて自動で拡大縮小する */
+}
+a {
+  color:white;
+  text-decoration: none;
+}
